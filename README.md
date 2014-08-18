@@ -1,7 +1,7 @@
 livereload
 ================
 
-Grunt watch taks + live reload setup.
+Grunt watch task live reload setup.
 
 ### Usage
 
