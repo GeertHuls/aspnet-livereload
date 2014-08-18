@@ -1,0 +1,10 @@
+{
+  "name": "livereload",
+  "version": "0.0.1",
+  "description": "Possiblity to enable livereload on web related files",
+  "author": "Geert Huls",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-watch": "~0.5.3"
+  }
+}
